@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+  <script>
+     alert("alert(Countdown Initiated)"); // Still learning what to do in here //
+     document.getElementById("DisplayCountdown").innerHTML=countdown
+  </script>
+  <title></title>
+</head>
+<body>
+<header></header>
+<nav></nav>
+<main></main>
+<footer></footer>
+</body>
+</html>
